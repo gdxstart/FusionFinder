@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
  * 全量同步帖子
  */
 // todo 取消注释后，每次启动springboot项目会启动run方法
-@Component
+//@Component
 @Slf4j
 public class FetchInitPostList implements CommandLineRunner {
 
